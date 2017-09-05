@@ -1,2 +1,0 @@
-# zhangruidong.github.io
-blog
