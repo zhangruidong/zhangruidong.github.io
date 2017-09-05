@@ -1,10 +1,10 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: Zrd Blog
+SEOTitle: 张锐东的博客 | Zrd Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
+email: zzzruidong@gmail.com
+description: "关于前端与设计 | 张锐东，Web & Mobile Lover，Front-End Engineer | 这里是 @Zrd张锐东 的个人博客，与你一起发现更大的世界。"
+keyword: "张锐东, Zrd, 张锐东的博客, Zrd Blog, 博客, 个人网站, 互联网, 前端"
 url: "https://zhangruidong.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,9 +13,9 @@ baseurl: ""                             # for example, '/blog' if your blog host
 # SNS settings
 RSS: false
 weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+zhihu_username:     知知为知知
+github_username:    zhangruidong
+twitter_username:   false
 #facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
 
