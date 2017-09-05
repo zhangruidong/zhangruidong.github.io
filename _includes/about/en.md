@@ -1,11 +1,11 @@
 
 
-> Yet another man.
+> Designer or Engineer, things in between.
 
 
-Hi, I am *@huxpro* (Huang, Xuan), a software engineer & a designer. I previously worked as Web Front-End Engineer at [Alibaba Trip](https://www.alitrip.com/); Web Front-End Infrastructure Team Lead at [Wepiao.com](https://www.crunchbase.com/organization/wepiao#/entity); And [Invited Consultant on PWA]((https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)) at [Ele.me](https://github.com/elemefe/).
+Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it.
 
-I studied Digital Media Art and graduated from [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) by 2016, and will study Computer Science at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology) in 2017.
+ If you want to live your life in a creative way, as an artist, you have to not look back too much. You have to be willing to take whatever you’ve done and whoever you were and throw them away.
 
 
 ##### Talks
