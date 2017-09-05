@@ -1,6 +1,6 @@
-#Zrd Blog
+# Zrd Blog
 
-###[View Live Zrd Blog &rarr;](https://zhangruidong.github.io)
+### [View Live Zrd Blog &rarr;](https://zhangruidong.github.io)
 
 
 ## Get Started
