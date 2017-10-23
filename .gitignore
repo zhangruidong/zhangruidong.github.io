@@ -1,7 +1,10 @@
 _site
+draft
 node_modules
 npm-debug.log
 .DS_Store
 */.DS_Store
 */*/.DS_Store
 *.sh
+.idea/inspectionProfiles/
+.idea/workspace.xml
